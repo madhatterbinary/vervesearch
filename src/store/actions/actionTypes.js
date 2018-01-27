@@ -1,0 +1,2 @@
+export const SET_INIT_VIDEOS = 'SET_INIT_VIDEOS';
+export const SELECTED_VIDEO = 'SELECTED_VIDEO';
